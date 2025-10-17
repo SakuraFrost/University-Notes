@@ -1,4 +1,5 @@
-## 🗺️ C Language Navigation (Year 1)
+## 🗺️ [C Language Navigation (Year 1)](.Work/[Year 1] C Langauge Work)
+## Note: Weekly Links Do Not Work Yet. I'll fix it later.
 
 A weekly breakdown of all the coursework for the C Language module.
 
